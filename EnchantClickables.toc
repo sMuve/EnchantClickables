@@ -1,9 +1,7 @@
-## Interface: 11505
-## Interface-Classic: 11505
-## Interface-BCC: 20504
+## Interface: 20504
 ## Title: Enchant Clickables
 ## Author: CaffeineAddiction
-## Version: @project-version@
+## Version: 1.0.2
 ## Notes: Port of a Notorious Clickable WeakAura
 ## X-Website: https://www.curseforge.com/wow/addons/enchant-clickables
 ## X-Curse-Project-ID: 1157294
