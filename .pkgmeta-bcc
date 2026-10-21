@@ -3,3 +3,7 @@ package-as: EnchantClickables
 ignore:
   - README.md
   - img/60aac905158c3e4fb289a7a4.gif
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
